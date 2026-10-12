@@ -1,0 +1,19 @@
+{
+  "scenarioKinds": [
+    {
+      "id": "primary",
+      "name": "Primary",
+      "description": "Established successful operation or observed automatic result."
+    },
+    {
+      "id": "validation",
+      "name": "Validation",
+      "description": "Input or identity rejection prevents the requested operation."
+    },
+    {
+      "id": "edge",
+      "name": "Edge",
+      "description": "A conflict, failure or materially different boundary outcome."
+    }
+  ]
+}
